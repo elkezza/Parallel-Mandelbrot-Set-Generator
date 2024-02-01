@@ -19,17 +19,17 @@ The `run-test.sh` script is included to automate the running of the program with
 
 ### Execution Time vs. Number of Threads
 
-![Mandelbrot Calculation Time vs. Number of Threads](image-1.JPG)
+![Mandelbrot Calculation Time vs. Number of Threads](images/image-1.JPG)
 
 ### Mandelbrot Set Visualizations
 
 #### Dynamic Worker Allocation
 
-![Mandelbrot Dynamic Worker](image-2.JPG)
+![Mandelbrot Dynamic Worker](images/image-2.JPG)
 
 #### Static Worker Allocation
 
-![Mandelbrot Static Worker](image-3.JPG)
+![Mandelbrot Static Worker](images/image-3.JPG)
 
 ## Building and Running
 
